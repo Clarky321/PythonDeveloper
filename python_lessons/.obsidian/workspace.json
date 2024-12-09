@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "11bd6287c4f0f8dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbdd239fad18d3f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f7860c5084f0c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ввод-вывод данных/1. Введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600afac0fa41b655",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/Pasted image 20241209111950.png"
+              }
+            }
+          },
+          {
+            "id": "5359f873d86e552c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ввод-вывод данных/5. Работа с целыми числами.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5121be850c525551",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa18ebd366ced18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6239ff8764a40d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c777b51dbdc50be7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22020352c090e8d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcf6ba87301f417f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3adc4ab6282676d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66ea1779c84b1755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ввод-вывод данных/5. Работа с целыми числами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3bf536291624ab11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ввод-вывод данных/5. Работа с целыми числами.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "969fc9cb6df66205",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6d69f8d81979dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ввод-вывод данных/5. Работа с целыми числами.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "5359f873d86e552c",
+  "lastOpenFiles": [
+    "Ввод-вывод данных/4.2. PEP 8.md",
+    "Ввод-вывод данных/5. Работа с целыми числами.md",
+    "Без названия.md",
+    "Ввод-вывод данных/4.1. Множественное присваивание.md",
+    "Ввод-вывод данных/4. sep, end, PEP 8.md",
+    "Ввод-вывод данных/3.3 Частые ошибки.md",
+    "Pictures/Pasted image 20241209110132.png",
+    "Pictures/Pasted image 20241209111707.png",
+    "Pictures/Pasted image 20241209111719.png",
+    "Pictures/Pasted image 20241209111950.png",
+    "Ввод-вывод данных/3.2 Ввод данных, команда input(), переменные.md",
+    "Ввод-вывод данных/3. Ввод-вывод данных, переменные.md",
+    "Ввод-вывод данных/3.1 Частые ошибки.md",
+    "Pictures",
+    "Ввод-вывод данных/1. Введение.md",
+    "Ввод-вывод данных/2. Философия Python.md",
+    "Ввод-вывод данных"
+  ]
+}
